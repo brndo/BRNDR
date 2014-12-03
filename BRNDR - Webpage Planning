@@ -1,0 +1,18 @@
+BRNDR - Webpage Planning
+
+Content of Site:
+Will contain contact info, links to projects, design work, music?
+
+Is this going to be responsive?  Yes.
+
+Use some jQuery/Javascript tomfoolery?  Yes.
+
+Site Tree: (all one page with nav bar to jump around)
+-->Top of Page
+	--> BRNDR logo / Hamburger Menu
+-->About / Contact
+	-->Social Media Links
+-->Work
+	-->Design
+	-->Web Dev
+-->Blog
